@@ -1,0 +1,12 @@
+# Testé avec Python 3.10
+pandas==2.3.3
+numpy==2.2.6
+matplotlib==3.10.9
+requests==2.34.2
+openpyxl==3.1.5
+pypdf==6.18.0
+scikit-learn==1.7.2
+statsmodels==0.15.0
+xgboost==3.2.0
+jupyter==1.1.1
+nbconvert==7.17.1
