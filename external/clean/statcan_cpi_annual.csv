@@ -1,0 +1,121 @@
+series,geo,product,year,index_avg,months_available,last_release,index_dec,yoy_avg_pct,yoy_dec_pct
+allitems_canada,Canada,All-items,2015,126.567,12,2021-07-28 08:30:00,126.5,1.125,1.606
+allitems_canada,Canada,All-items,2016,128.375,12,2021-07-28 08:30:00,128.4,1.429,1.502
+allitems_canada,Canada,All-items,2017,130.425,12,2021-07-28 08:30:00,130.8,1.597,1.869
+allitems_canada,Canada,All-items,2018,133.383,12,2023-06-27 08:30:00,133.4,2.268,1.988
+allitems_canada,Canada,All-items,2019,135.983,12,2021-09-15 08:30:00,136.4,1.949,2.249
+allitems_canada,Canada,All-items,2020,136.958,12,2021-09-15 08:30:00,137.4,0.717,0.733
+allitems_canada,Canada,All-items,2021,141.608,12,2022-01-19 08:30:00,144.0,3.395,4.803
+allitems_canada,Canada,All-items,2022,151.242,12,2023-01-17 08:30:00,153.1,6.803,6.319
+allitems_canada,Canada,All-items,2023,157.108,12,2024-01-16 08:30:00,158.3,3.879,3.396
+allitems_canada,Canada,All-items,2024,160.85,12,2025-01-21 08:30:00,161.2,2.382,1.832
+allitems_canada,Canada,All-items,2025,164.183,12,2026-01-19 08:30:00,165.0,2.072,2.357
+allitems_canada,Canada,All-items,2026,168.075,8,2026-09-14 08:30:00,,,
+allitems_montreal,Montreal,All-items,2015,124.892,12,2021-07-28 08:30:00,124.7,1.366,1.465
+allitems_montreal,Montreal,All-items,2016,125.9,12,2021-07-28 08:30:00,125.5,0.807,0.642
+allitems_montreal,Montreal,All-items,2017,127.342,12,2021-07-28 08:30:00,127.9,1.145,1.912
+allitems_montreal,Montreal,All-items,2018,129.492,12,2023-06-27 08:30:00,129.7,1.688,1.407
+allitems_montreal,Montreal,All-items,2019,132.425,12,2021-09-15 08:30:00,133.3,2.265,2.776
+allitems_montreal,Montreal,All-items,2020,133.692,12,2021-09-15 08:30:00,134.6,0.957,0.975
+allitems_montreal,Montreal,All-items,2021,138.675,12,2022-01-19 08:30:00,141.3,3.727,4.978
+allitems_montreal,Montreal,All-items,2022,147.925,12,2023-01-17 08:30:00,150.8,6.67,6.723
+allitems_montreal,Montreal,All-items,2023,155.517,12,2024-01-16 08:30:00,157.2,5.132,4.244
+allitems_montreal,Montreal,All-items,2024,159.658,12,2025-01-21 08:30:00,160.4,2.663,2.036
+allitems_montreal,Montreal,All-items,2025,163.892,12,2026-01-19 08:30:00,165.7,2.651,3.304
+allitems_montreal,Montreal,All-items,2026,168.013,8,2026-09-14 08:30:00,,,
+allitems_ontario,Ontario,All-items,2015,127.408,12,2021-07-28 08:30:00,127.5,1.218,1.675
+allitems_ontario,Ontario,All-items,2016,129.683,12,2021-07-28 08:30:00,130.0,1.786,1.961
+allitems_ontario,Ontario,All-items,2017,131.867,12,2021-07-28 08:30:00,132.0,1.684,1.538
+allitems_ontario,Ontario,All-items,2018,134.967,12,2023-06-27 08:30:00,135.0,2.351,2.273
+allitems_ontario,Ontario,All-items,2019,137.492,12,2021-09-15 08:30:00,137.8,1.871,2.074
+allitems_ontario,Ontario,All-items,2020,138.367,12,2021-09-15 08:30:00,138.8,0.636,0.726
+allitems_ontario,Ontario,All-items,2021,143.175,12,2022-01-19 08:30:00,146.0,3.475,5.187
+allitems_ontario,Ontario,All-items,2022,152.908,12,2023-01-17 08:30:00,154.8,6.798,6.027
+allitems_ontario,Ontario,All-items,2023,158.692,12,2024-01-16 08:30:00,160.0,3.782,3.359
+allitems_ontario,Ontario,All-items,2024,162.475,12,2025-01-21 08:30:00,162.7,2.384,1.687
+allitems_ontario,Ontario,All-items,2025,165.558,12,2026-01-19 08:30:00,166.1,1.898,2.09
+allitems_ontario,Ontario,All-items,2026,168.625,8,2026-09-14 08:30:00,,,
+allitems_ottawa,Ottawa,All-items,2015,126.483,12,2021-07-28 08:30:00,126.3,0.944,1.283
+allitems_ottawa,Ottawa,All-items,2016,128.075,12,2021-07-28 08:30:00,128.1,1.258,1.425
+allitems_ottawa,Ottawa,All-items,2017,129.942,12,2021-07-28 08:30:00,130.1,1.457,1.561
+allitems_ottawa,Ottawa,All-items,2018,133.15,12,2023-06-27 08:30:00,133.4,2.469,2.537
+allitems_ottawa,Ottawa,All-items,2019,135.867,12,2021-09-15 08:30:00,137.0,2.04,2.699
+allitems_ottawa,Ottawa,All-items,2020,137.75,12,2021-09-15 08:30:00,138.9,1.386,1.387
+allitems_ottawa,Ottawa,All-items,2021,143.55,12,2022-01-19 08:30:00,146.4,4.211,5.4
+allitems_ottawa,Ottawa,All-items,2022,153.467,12,2023-01-17 08:30:00,155.7,6.908,6.352
+allitems_ottawa,Ottawa,All-items,2023,159.2,12,2024-01-16 08:30:00,159.8,3.736,2.633
+allitems_ottawa,Ottawa,All-items,2024,162.775,12,2025-01-21 08:30:00,162.7,2.246,1.815
+allitems_ottawa,Ottawa,All-items,2025,166.325,12,2026-01-19 08:30:00,166.9,2.181,2.581
+allitems_ottawa,Ottawa,All-items,2026,170.25,8,2026-09-14 08:30:00,,,
+allitems_quebec,Quebec,All-items,2015,124.708,12,2021-07-28 08:30:00,124.4,1.074,1.303
+allitems_quebec,Quebec,All-items,2016,125.575,12,2021-07-28 08:30:00,125.2,0.695,0.643
+allitems_quebec,Quebec,All-items,2017,126.933,12,2021-07-28 08:30:00,127.5,1.082,1.837
+allitems_quebec,Quebec,All-items,2018,129.033,12,2023-06-27 08:30:00,128.9,1.654,1.098
+allitems_quebec,Quebec,All-items,2019,131.708,12,2021-09-15 08:30:00,132.4,2.073,2.715
+allitems_quebec,Quebec,All-items,2020,132.758,12,2021-09-15 08:30:00,133.4,0.797,0.755
+allitems_quebec,Quebec,All-items,2021,137.792,12,2022-01-19 08:30:00,140.2,3.791,5.097
+allitems_quebec,Quebec,All-items,2022,146.983,12,2023-01-17 08:30:00,149.0,6.671,6.277
+allitems_quebec,Quebec,All-items,2023,153.583,12,2024-01-16 08:30:00,155.0,4.49,4.027
+allitems_quebec,Quebec,All-items,2024,157.158,12,2025-01-21 08:30:00,157.5,2.328,1.613
+allitems_quebec,Quebec,All-items,2025,161.033,12,2026-01-19 08:30:00,162.6,2.466,3.238
+allitems_quebec,Quebec,All-items,2026,165.212,8,2026-09-14 08:30:00,,,
+rent_canada,Canada,Rent,2015,118.458,12,2021-07-28 08:30:00,118.9,1.153,0.848
+rent_canada,Canada,Rent,2016,119.175,12,2021-07-28 08:30:00,119.5,0.605,0.505
+rent_canada,Canada,Rent,2017,119.925,12,2021-07-28 08:30:00,120.4,0.629,0.753
+rent_canada,Canada,Rent,2018,121.308,12,2023-06-27 08:30:00,122.1,1.153,1.412
+rent_canada,Canada,Rent,2019,124.65,12,2021-09-15 08:30:00,126.3,2.755,3.44
+rent_canada,Canada,Rent,2020,126.775,12,2021-09-15 08:30:00,127.0,1.705,0.554
+rent_canada,Canada,Rent,2021,128.825,12,2022-01-19 08:30:00,130.5,1.617,2.756
+rent_canada,Canada,Rent,2022,134.733,12,2023-01-17 08:30:00,138.1,4.586,5.824
+rent_canada,Canada,Rent,2023,143.358,12,2024-01-16 08:30:00,148.8,6.402,7.748
+rent_canada,Canada,Rent,2024,155.092,12,2025-01-21 08:30:00,159.4,8.185,7.124
+rent_canada,Canada,Rent,2025,162.908,12,2026-01-19 08:30:00,167.2,5.04,4.893
+rent_canada,Canada,Rent,2026,167.05,8,2026-09-14 08:30:00,,,
+rent_ontario,Ontario,Rent,2015,116.117,12,2021-07-28 08:30:00,116.7,1.037,1.039
+rent_ontario,Ontario,Rent,2016,117.25,12,2021-07-28 08:30:00,117.8,0.976,0.943
+rent_ontario,Ontario,Rent,2017,118.358,12,2021-07-28 08:30:00,119.0,0.945,1.019
+rent_ontario,Ontario,Rent,2018,120.067,12,2023-06-27 08:30:00,120.9,1.443,1.597
+rent_ontario,Ontario,Rent,2019,124.625,12,2021-09-15 08:30:00,125.9,3.797,4.136
+rent_ontario,Ontario,Rent,2020,126.667,12,2021-09-15 08:30:00,126.2,1.638,0.238
+rent_ontario,Ontario,Rent,2021,128.55,12,2022-01-19 08:30:00,130.6,1.487,3.487
+rent_ontario,Ontario,Rent,2022,135.725,12,2023-01-17 08:30:00,139.6,5.581,6.891
+rent_ontario,Ontario,Rent,2023,144.233,12,2024-01-16 08:30:00,149.2,6.269,6.877
+rent_ontario,Ontario,Rent,2024,154.192,12,2025-01-21 08:30:00,158.8,6.904,6.434
+rent_ontario,Ontario,Rent,2025,160.825,12,2026-01-19 08:30:00,163.4,4.302,2.897
+rent_ontario,Ontario,Rent,2026,163.012,8,2026-09-14 08:30:00,,,
+rent_quebec,Quebec,Rent,2015,116.158,12,2021-07-28 08:30:00,116.7,0.963,0.864
+rent_quebec,Quebec,Rent,2016,117.1,12,2021-07-28 08:30:00,117.6,0.811,0.771
+rent_quebec,Quebec,Rent,2017,117.958,12,2021-07-28 08:30:00,118.4,0.733,0.68
+rent_quebec,Quebec,Rent,2018,118.908,12,2023-06-27 08:30:00,119.6,0.805,1.014
+rent_quebec,Quebec,Rent,2019,121.208,12,2021-09-15 08:30:00,123.0,1.934,2.843
+rent_quebec,Quebec,Rent,2020,122.658,12,2021-09-15 08:30:00,124.2,1.196,0.976
+rent_quebec,Quebec,Rent,2021,126.025,12,2022-01-19 08:30:00,127.0,2.745,2.254
+rent_quebec,Quebec,Rent,2022,130.558,12,2023-01-17 08:30:00,133.9,3.597,5.433
+rent_quebec,Quebec,Rent,2023,138.233,12,2024-01-16 08:30:00,143.0,5.879,6.796
+rent_quebec,Quebec,Rent,2024,150.5,12,2025-01-21 08:30:00,155.1,8.874,8.462
+rent_quebec,Quebec,Rent,2025,162.158,12,2026-01-19 08:30:00,170.2,7.746,9.736
+rent_quebec,Quebec,Rent,2026,167.862,8,2026-09-14 08:30:00,,,
+rented_accom_montreal,Montreal,Rented accommodation,2015,117.442,12,2021-07-28 08:30:00,118.1,1.061,1.027
+rented_accom_montreal,Montreal,Rented accommodation,2016,118.558,12,2021-07-28 08:30:00,119.1,0.951,0.847
+rented_accom_montreal,Montreal,Rented accommodation,2017,119.6,12,2021-07-28 08:30:00,120.1,0.879,0.84
+rented_accom_montreal,Montreal,Rented accommodation,2018,120.633,12,2023-06-27 08:30:00,121.3,0.864,0.999
+rented_accom_montreal,Montreal,Rented accommodation,2019,123.767,12,2021-09-15 08:30:00,126.8,2.597,4.534
+rented_accom_montreal,Montreal,Rented accommodation,2020,125.4,12,2021-09-15 08:30:00,127.7,1.32,0.71
+rented_accom_montreal,Montreal,Rented accommodation,2021,129.617,12,2022-01-19 08:30:00,130.0,3.363,1.801
+rented_accom_montreal,Montreal,Rented accommodation,2022,134.367,12,2023-01-17 08:30:00,137.9,3.665,6.077
+rented_accom_montreal,Montreal,Rented accommodation,2023,143.017,12,2024-01-16 08:30:00,147.6,6.438,7.034
+rented_accom_montreal,Montreal,Rented accommodation,2024,155.083,12,2025-01-21 08:30:00,159.5,8.437,8.062
+rented_accom_montreal,Montreal,Rented accommodation,2025,165.633,12,2026-01-19 08:30:00,173.9,6.803,9.028
+rented_accom_montreal,Montreal,Rented accommodation,2026,171.4,8,2026-09-14 08:30:00,,,
+rented_accom_ottawa,Ottawa,Rented accommodation,2015,116.375,12,2021-07-28 08:30:00,116.6,0.627,0.604
+rented_accom_ottawa,Ottawa,Rented accommodation,2016,117.008,12,2021-07-28 08:30:00,117.7,0.544,0.943
+rented_accom_ottawa,Ottawa,Rented accommodation,2017,118.308,12,2021-07-28 08:30:00,118.7,1.111,0.85
+rented_accom_ottawa,Ottawa,Rented accommodation,2018,119.558,12,2023-06-27 08:30:00,120.5,1.057,1.516
+rented_accom_ottawa,Ottawa,Rented accommodation,2019,122.642,12,2021-09-15 08:30:00,128.4,2.579,6.556
+rented_accom_ottawa,Ottawa,Rented accommodation,2020,126.058,12,2021-09-15 08:30:00,127.0,2.786,-1.09
+rented_accom_ottawa,Ottawa,Rented accommodation,2021,127.025,12,2022-01-19 08:30:00,128.5,0.767,1.181
+rented_accom_ottawa,Ottawa,Rented accommodation,2022,131.633,12,2023-01-17 08:30:00,133.9,3.628,4.202
+rented_accom_ottawa,Ottawa,Rented accommodation,2023,135.608,12,2024-01-16 08:30:00,136.0,3.02,1.568
+rented_accom_ottawa,Ottawa,Rented accommodation,2024,146.158,12,2025-01-21 08:30:00,148.3,7.78,9.044
+rented_accom_ottawa,Ottawa,Rented accommodation,2025,151.742,12,2026-01-19 08:30:00,149.3,3.82,0.674
+rented_accom_ottawa,Ottawa,Rented accommodation,2026,156.512,8,2026-09-14 08:30:00,,,

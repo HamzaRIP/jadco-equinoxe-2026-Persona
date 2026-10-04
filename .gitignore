@@ -1,0 +1,13 @@
+# Données confidentielles du CRM : ne jamais publier
+equinoxe_*.csv
+*.xlsx
+# Fichiers produits par le notebook à partir des données du CRM (régénérés à l'exécution)
+figures/
+models/
+predictions_2026.csv
+dashboard_2026.html
+Presentation.pdf
+external/raw/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

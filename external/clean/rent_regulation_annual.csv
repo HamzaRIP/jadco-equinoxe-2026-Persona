@@ -1,0 +1,26 @@
+province,year,reference_rate_pct,rate_type,granted_unheated_pct,inflation_pct,cpi_regime,source
+Ontario,2015,1.6,ontario_cap,,,False,https://www.ontario.ca/page/rent-increase-guideline
+Ontario,2016,2.0,ontario_cap,,,False,https://www.ontario.ca/page/rent-increase-guideline
+Ontario,2017,1.5,ontario_cap,,,False,https://www.ontario.ca/page/rent-increase-guideline
+Ontario,2018,1.8,ontario_cap,,,False,https://www.ontario.ca/page/rent-increase-guideline
+Ontario,2019,1.8,ontario_cap,,,False,https://www.ontario.ca/page/rent-increase-guideline
+Ontario,2020,2.2,ontario_cap,,,False,https://www.ontario.ca/page/rent-increase-guideline
+Ontario,2021,0.0,ontario_cap,,,False,https://www.ontario.ca/page/rent-increase-guideline
+Ontario,2022,1.2,ontario_cap,,,False,https://www.ontario.ca/page/rent-increase-guideline
+Ontario,2023,2.5,ontario_cap,,,False,https://www.ontario.ca/page/rent-increase-guideline
+Ontario,2024,2.5,ontario_cap,,,False,https://www.ontario.ca/page/rent-increase-guideline
+Ontario,2025,2.5,ontario_cap,,,False,https://www.ontario.ca/page/rent-increase-guideline
+Ontario,2026,2.1,ontario_cap,,,False,https://www.ontario.ca/page/rent-increase-guideline
+Ontario,2027,1.9,ontario_cap,,,False,https://www.ontario.ca/page/rent-increase-guideline
+Quebec,2015,,tal_estimate,1.8,1.1,False,
+Quebec,2016,0.4,tal_estimate,1.7,0.7,False,https://www.tal.gouv.qc.ca/sites/default/files/COMMUNIQUE_FIXATION_2016_FR.pdf
+Quebec,2017,,tal_estimate,1.4,1.1,False,not retrieved
+Quebec,2018,0.5,tal_estimate,1.5,1.7,False,https://www.latribune.ca/2018/01/28/des-augmentations-modestes-des-loyers-en-vue-522ca029115c073a968f7b5c7c345b90/
+Quebec,2019,,tal_estimate,1.2,2.1,False,not retrieved
+Quebec,2020,1.2,tal_estimate,1.9,0.8,False,https://www.quebec.ca/nouvelles/actualites/details/le-calcul-de-laugmentation-des-loyers-en-2020
+Quebec,2021,0.8,tal_estimate,1.4,3.8,False,https://www.newswire.ca/fr/news-releases/le-calcul-de-l-augmentation-des-loyers-en-2021-873582110.html
+Quebec,2022,1.28,tal_estimate,2.8,6.7,False,https://www.tal.gouv.qc.ca/sites/default/files/COMMUNIQUE_FIXATION_2022_FR.pdf
+Quebec,2023,2.3,tal_estimate,,,False,https://www.tal.gouv.qc.ca/sites/default/files/COMMUNIQUE_FIXATION_2023_FR.pdf
+Quebec,2024,4.0,tal_estimate,,,False,https://www.tal.gouv.qc.ca/sites/default/files/COMMUNIQUE_FIXATION_2024_FR.pdf
+Quebec,2025,5.9,tal_estimate,,,False,https://morneausenechal-avocat.ca/2025/12/29/nouveau-reglement-sur-les-criteres-de-fixation-de-loyer-recul-amelioration-ou-reforme-necessaire/
+Quebec,2026,3.1,tal_estimate,,,True,https://ici.radio-canada.ca/nouvelle/2221781/loyers-tal-logement-augmentation-locataires
